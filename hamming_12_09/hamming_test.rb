@@ -1,5 +1,6 @@
 require 'minitest/autorun'
-require_relative 'hamming'
+# require_relative 'hamming'
+require_relative 'Sanjay_12_09/hamming'
 
 # Common test data version: 1.0.0 bb56dc7
 class HammingTest < Minitest::Test
