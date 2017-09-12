@@ -23,7 +23,7 @@ person_16   Level: 5
 Write a code to get three team with each team having equal level(Total of all team member).
 i.e. Team 1 having `n` person with total level `N` then other team should have equal or nearest level number Like `N+1` or `N-1` and members like `n-1` or `n+1`.
 
-You have divede all level eqaully to each group, any group should not have all higher level members or all lover level members or all midium level.
+You have to divide all level eqaully to each team, any team should not have all higher level members or all lover level members or all midium level.
 
 This code should not return same output every time.
 
